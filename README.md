@@ -1,4 +1,11 @@
 # !!!THIS WAS A SCAM REPO!!! - DO NOT CLONE/RUN
+
+The original repo did not contain the MALWARE dir. It now contains the code of the malware ran by the malicious dependency `chai-await-test`
+
+
+Below is the original README.md content
+
+---
 # Tech interview smart contracts coding problem
 
 This is a Solidity coding problem for tech interviews. It is designed to take **no more than a few hours**.
