@@ -1,3 +1,4 @@
+# !!!THIS WAS A SCAM REPO!!! - DO NOT CLONE/RUN
 # Tech interview smart contracts coding problem
 
 This is a Solidity coding problem for tech interviews. It is designed to take **no more than a few hours**.
@@ -39,5 +40,6 @@ Your Solution must pass the test: `pnpm run test` - run the tests (Hardhat)
 Record a short [Loom video](https://www.loom.com) showing how it works, including the expected and actual behavior if you're testing.
 
 ### 4. Deadline
+
 
 Please complete and submit the result within 1 ~ 2 hours unless otherwise discussed.
